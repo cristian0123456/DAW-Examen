@@ -1,0 +1,70 @@
+*{
+    margin: auto;
+    padding: auto;
+}
+body{
+    background: #EABE3F;
+}
+
+h1{
+    text-align: center;
+    margin-top: 8%;
+    font-size: 35px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: darkblue;
+}
+
+button{
+    text-align: center;
+    padding: auto;
+    color: aqua;
+    background-color: black;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-left: 44%;
+    margin-top: 15px;
+
+}
+
+.div1{
+    width: 450px; 
+    height: 100px; 
+    border: 3px solid #555;
+    background: black;
+    position: relative;
+    margin-top: 10%;
+    transition: all .5s ease-in-out red;
+    
+
+   }
+
+.div2{
+    width: 450px; 
+    height: 100px; 
+    border: 3px solid #555;
+    background: black;
+    position: relative;
+    margin-top: 5%;
+    
+
+}
+
+.div3{
+    width: 450px; 
+    height: 100px; 
+    border: 3px solid #555;
+    background: black;
+    position: relative;
+    margin-top: 5%;
+
+}
+
+.div4{
+    width: 450px; 
+    height: 100px; 
+    border: 3px solid #555;
+    background: rgb(255, 211, 3);
+    position: relative;
+    margin-top: 5%;
+
+}
